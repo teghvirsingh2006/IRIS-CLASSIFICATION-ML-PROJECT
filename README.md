@@ -120,7 +120,7 @@ This provides:
 
 ---
 
-# 🔧 Hyperparameter Tuning
+# Hyperparameter Tuning
 
 Hyperparameter optimization was performed using **GridSearchCV**.
 
